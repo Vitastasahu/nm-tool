@@ -1,5 +1,5 @@
 # nm-tool
-A simple numerical analysis tool which can perform differentiation, integration and root approximation for functions using a multitude of methods. For description of each of these methods, refer to [Numerical Analysis](https://github.com/Vitastasahu/nm-visualiser/blob/main/Numerical-Analysis-Tool.pdf).
+A simple numerical analysis tool which can perform differentiation, integration and root approximation for functions using a multitude of methods. For description of each of these methods, refer to [Numerical Analysis](https://github.com/Vitastasahu/nm-tool/blob/main/Numerical-Analysis-Tool.pdf).
 
 ## Computational Capabilites
 - [Numerical Differentiation](https://en.wikipedia.org/wiki/Numerical_differentiation)
